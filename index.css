@@ -1,0 +1,17 @@
+.circle{
+  background: red;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  position: absolute;
+  left: 5px;
+}
+.word{
+  font-family: helvetica;
+  font-size: 24px;
+  color: red;
+  font-weight: 800;
+  letter-spacing: 3px;
+  position: absolute;
+  right: 5px;
+}
